@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T23:21:13 AST" name="Default suite" finished-at="2024-03-18T23:21:55 AST" duration-ms="42211">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T23:21:13 AST" name="Default test" finished-at="2024-03-18T23:21:55 AST" duration-ms="42211">
+      <class name="AddToCartMaganto">
+        <test-method is-config="true" signature="BeforTest()[pri:0, instance:AddToCartMaganto@2d1dee39]" started-at="2024-03-18T23:21:13 AST" name="BeforTest" finished-at="2024-03-18T23:21:13 AST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforTest -->
+        <test-method signature="AddOneToCart()[pri:1, instance:AddToCartMaganto@2d1dee39]" started-at="2024-03-18T23:21:13 AST" name="AddOneToCart" finished-at="2024-03-18T23:21:20 AST" duration-ms="6449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddOneToCart -->
+        <test-method signature="CheackOutTest()[pri:2, instance:AddToCartMaganto@2d1dee39]" started-at="2024-03-18T23:21:20 AST" name="CheackOutTest" finished-at="2024-03-18T23:21:25 AST" duration-ms="5336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheackOutTest -->
+        <test-method signature="ShippingAddress()[pri:3, instance:AddToCartMaganto@2d1dee39]" started-at="2024-03-18T23:21:25 AST" name="ShippingAddress" finished-at="2024-03-18T23:21:55 AST" duration-ms="30223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShippingAddress -->
+      </class> <!-- AddToCartMaganto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
